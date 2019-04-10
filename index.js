@@ -10,3 +10,6 @@ function nowServing(line) {
   }
 }
 
+function currentLine(line) {
+  
+}
