@@ -15,5 +15,7 @@ function currentLine(line) {
     return 'The line is currently empty.'
   }
   const numbersAndNames = [];
-  for ()
+  for (let i=0, l=line.length(); i<l; i++) {
+    
+  }
 }
